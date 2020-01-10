@@ -1,5 +1,5 @@
 # LINUX SERVER CONFIGURATION
-This is the fifth and final project of the [Udacity's Full Stack Web Developer Nanodegree](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004) Program. This project involves taking a baseline installation of a Linux Server and preparing it to host web application (in this case, the Item Catalog Website), installing and configuring a database server on it aand securing it against a number of attack vectors.
+This project involves taking a baseline installation of a Linux Server and preparing it to host web application (in this case, the Item Catalog Website), installing and configuring a database server on it aand securing it against a number of attack vectors.
 ## Project Requirement
 ### Get server
 1. Start a new Ubuntu Linux server instance on [Amazon Lightsail.](https://aws.amazon.com/lightsail/)
